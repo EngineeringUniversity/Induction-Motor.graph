@@ -1,0 +1,3 @@
+- [Single phase motor winding connection with diagram full detailed video|Single phase motor connection](https://youtu.be/D9DHu3BdZS4)
+- [1 HP 2800 rpm single phase motor winding connection with diagram|Water pump winding connection](https://youtu.be/hLV7kYkRVt0)
+- [Single phase double capacitor motor connection|Centrifugal switch in single phase induction motor](https://youtu.be/OB-w7JUVHeQ)
