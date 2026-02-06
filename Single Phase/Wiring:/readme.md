@@ -1,4 +1,5 @@
 sch:
+- https://www.google.com/search?q=single+phase+induction+motor+wiring+diagram
 - https://www.google.com/search?q=induction+motor+capacitor+wiring
 - https://www.google.com/search?q=single+phase+induction+motor+capacitor+wiring
 
