@@ -4,6 +4,7 @@ sch:
 - https://www.google.com/search?q=single+phase+induction+motor+capacitor+wiring
 
 # Guide:
+- https://electricaltopic.com/single-phase-induction-motor.html
 - https://www.mez-motors.com/downloads/wiring_1ph.pdf
 
 ## video:
